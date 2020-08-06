@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_100Hz'
+Slack : -18.853
+TNS   : -6188.176
+
+Type  : Setup 'SW[15]'
+Slack : -15.271
+TNS   : -4622.675
+
+Type  : Setup 'CLOCK_50'
+Slack : -9.393
+TNS   : -279.199
+
+Type  : Setup 'T80se:z80_inst|MREQ_n'
+Slack : -6.449
+TNS   : -1219.866
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_25MHz'
+Slack : -5.761
+TNS   : -272.854
+
+Type  : Setup 'ps2kbd:ps2_kbd_inst|keyboard:kbd_inst|keyboard_clk_filtered'
+Slack : -2.090
+TNS   : -36.933
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_25Mhz_int'
+Slack : -0.895
+TNS   : -3.964
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_1Mhz_int'
+Slack : -0.665
+TNS   : -0.945
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_10Khz_int'
+Slack : -0.522
+TNS   : -0.875
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_100Khz_int'
+Slack : -0.506
+TNS   : -0.831
+
+Type  : Setup 'clk_div:clkdiv_inst|clock_1Khz_int'
+Slack : -0.320
+TNS   : -0.600
+
+Type  : Hold 'SW[15]'
+Slack : -5.753
+TNS   : -586.538
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_100Hz'
+Slack : -1.638
+TNS   : -15.071
+
+Type  : Hold 'T80se:z80_inst|MREQ_n'
+Slack : -1.628
+TNS   : -63.193
+
+Type  : Hold 'ps2kbd:ps2_kbd_inst|keyboard:kbd_inst|keyboard_clk_filtered'
+Slack : -0.418
+TNS   : -0.418
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_1Mhz_int'
+Slack : -0.319
+TNS   : -0.319
+
+Type  : Hold 'CLOCK_50'
+Slack : -0.260
+TNS   : -0.703
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_10Khz_int'
+Slack : -0.127
+TNS   : -0.127
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_25MHz'
+Slack : 0.048
+TNS   : 0.000
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_100Khz_int'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_1Khz_int'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Hold 'clk_div:clkdiv_inst|clock_25Mhz_int'
+Slack : 0.477
+TNS   : 0.000
+
+Type  : Recovery 'ps2kbd:ps2_kbd_inst|keyboard:kbd_inst|ready_set'
+Slack : -2.384
+TNS   : -2.384
+
+Type  : Removal 'ps2kbd:ps2_kbd_inst|keyboard:kbd_inst|ready_set'
+Slack : 2.874
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'SW[15]'
+Slack : -3.000
+TNS   : -1318.219
+
+Type  : Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -143.065
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_100Hz'
+Slack : -2.693
+TNS   : -619.205
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_25MHz'
+Slack : -2.693
+TNS   : -178.641
+
+Type  : Minimum Pulse Width 'ps2kbd:ps2_kbd_inst|keyboard:kbd_inst|keyboard_clk_filtered'
+Slack : -1.285
+TNS   : -29.555
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_25Mhz_int'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_100Khz_int'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_10Khz_int'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_1Khz_int'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Minimum Pulse Width 'clk_div:clkdiv_inst|clock_1Mhz_int'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Minimum Pulse Width 'ps2kbd:ps2_kbd_inst|keyboard:kbd_inst|ready_set'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Minimum Pulse Width 'T80se:z80_inst|MREQ_n'
+Slack : 0.261
+TNS   : 0.000
+
+------------------------------------------------------------

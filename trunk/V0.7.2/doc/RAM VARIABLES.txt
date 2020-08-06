@@ -1,0 +1,11 @@
+
+Variables in RAM (Initialized im z80soc.h)
+------------------------------------------
+52C0h 		- Harddware type: 0 = DE1, 1 = S3E
+52C1h - 52C2h	- Z80 Stack address (defined at top of ram by crt0.s)
+52C3h		- Output device (0=video)
+52C4h		- Number of screen lines
+52C5h		- Number of screen columns
+52C6h - 52C7h	- Video ram address to print next char
+52C8h		- current screen line
+52C9h		- Current screen columns

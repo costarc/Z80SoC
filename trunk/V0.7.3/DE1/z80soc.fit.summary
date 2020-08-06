@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jun 19 14:42:58 2016
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : z80soc
+Top-level Entity Name : Z80SOC
+Family : Cyclone II
+Device : EP2C20F484C7
+Timing Models : Final
+Total logic elements : 2,544 / 18,752 ( 14 % )
+    Total combinational functions : 2,465 / 18,752 ( 13 % )
+    Dedicated logic registers : 535 / 18,752 ( 3 % )
+Total registers : 535
+Total pins : 281 / 315 ( 89 % )
+Total virtual pins : 0
+Total memory bits : 196,600 / 239,616 ( 82 % )
+Embedded Multiplier 9-bit elements : 0 / 52 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

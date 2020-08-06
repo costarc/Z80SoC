@@ -1,0 +1,5 @@
+PLL_Name	PLL_Clocks:PLL_Clocks_inst|altpll:altpll_component|pll
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+
