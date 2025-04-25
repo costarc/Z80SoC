@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="z80soc">
-		<CBX_INST_ENTRY INSTANCE_NAME="|z80soc|charram:cram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_h1o1.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|z80soc|rom:rom_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_tr91.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|z80soc|vram:vram_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_66l1.tdf"/>
-	</PROJECT>
-</LOG_ROOT>

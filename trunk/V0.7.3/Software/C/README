@@ -1,3 +1,0 @@
-You must install SDCC and add <sdcc dir>/bin directory to the PATH
-
-PATH=$PATH:<SDCC DIR>/bin:.:./bin

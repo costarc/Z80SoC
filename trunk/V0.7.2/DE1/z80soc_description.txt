@@ -1,1 +1,0 @@
-Version 0.7 functional, 30x40 display, and char ram memory
