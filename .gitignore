@@ -70,3 +70,6 @@ dkms.conf
 *.tmw_info
 *.lst
 *lock.*
+.greybox_tmp/
+.incremental_db/
+.db/
