@@ -8,8 +8,8 @@
  *
  */
 
-#include <..\include\game_demo.h>
-#include <..\include\z80soc.h>
+#include <game_demo.h>
+#include <z80soc.h>
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
