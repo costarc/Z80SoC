@@ -1,4 +1,4 @@
-#Z80 SoC
+==Z80 SoC==
 
 System on a Chip project, with designs for Terasic DE1, DE2-115, Xilinx Spartan 3E.
 
